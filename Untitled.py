@@ -4,7 +4,6 @@ import warnings
 import numpy as np
 import librosa
 import io
-import torch
 import re
 warnings.filterwarnings("ignore")
 
